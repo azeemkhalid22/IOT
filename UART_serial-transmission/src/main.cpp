@@ -1,0 +1,12 @@
+#include <Arduino.h>
+
+void setup() {
+  Serial.begin(9600);
+  // put your setup code here, to run once:
+}
+
+void loop() {
+  // Serial.println("Hellow world M here Look"); //to print data on serial monitor
+  Serial.write("*");
+  // put your main code here, to run repeatedly:
+}

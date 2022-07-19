@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\interrupt"
+		},
+		{
+			"name": "ADC",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
